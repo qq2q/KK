@@ -1,0 +1,8 @@
+pyTelegramBotAPI==3.6.7
+python-telegram-bot==20.3
+requests==2.31.0
+rich==10.3.0
+telegram==0.0.1
+user-agent==0.1.10
+telethon-bot==0.1.0
+kvsqlite==0.2.1
